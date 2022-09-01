@@ -7,7 +7,7 @@ class Solution {
                 if(s.charAt(i)==t.charAt(j)){
                     matchesFound++;
                     j++;
-                    break;
+                   break;
                 }
             }
         }
